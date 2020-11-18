@@ -12,6 +12,10 @@
   font-weight: 300;
 }
 
+.loader__text {
+  font-size: 35px;
+}
+
 .movies {
   display: flex;
   justify-content: space-between;
@@ -20,4 +24,25 @@
   padding: 50px;
   padding-top: 70px;
   width: 80%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.title h1 {
+  font-size: 50px;
+}
+
+.title span {
+  font-size: 26px;
 }
