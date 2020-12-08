@@ -3,17 +3,15 @@ import "./Detail.css";
 
 class Detail extends React.Component {
   componentDidMount() {
-    var { location, history } = this.props;
+    let { location, history } = this.props;
     if (location.state === undefined) {
       history.push("/");
     }
   }
 
   render() {
-    var { location, history } = this.props;
-    if (location.state === undefined) {
-      history.push("/");
-    }
+    let { location, history } = this.props;
+
     return (
       <React.Fragment>
         <h1 className="detail__title">The 20 Best Movies in Home</h1>

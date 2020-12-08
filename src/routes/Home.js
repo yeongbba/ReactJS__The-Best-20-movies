@@ -17,7 +17,6 @@ class Home extends React.Component {
       "https://yts-proxy.now.sh/list_movies.json?sort_by=rating"
     );
     this.setState({ movies, isLoading: false });
-    console.log(movies);
   };
   componentDidMount() {
     this.getMovies();
