@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactJS__The-Best-20-movies/static/css/main.8a16b3a5.chunk.css",
-    "main.js": "/ReactJS__The-Best-20-movies/static/js/main.d9f59ddb.chunk.js",
-    "main.js.map": "/ReactJS__The-Best-20-movies/static/js/main.d9f59ddb.chunk.js.map",
+    "main.js": "/ReactJS__The-Best-20-movies/static/js/main.f244f0dd.chunk.js",
+    "main.js.map": "/ReactJS__The-Best-20-movies/static/js/main.f244f0dd.chunk.js.map",
     "runtime-main.js": "/ReactJS__The-Best-20-movies/static/js/runtime-main.eec850a3.js",
     "runtime-main.js.map": "/ReactJS__The-Best-20-movies/static/js/runtime-main.eec850a3.js.map",
     "static/js/2.1aed6000.chunk.js": "/ReactJS__The-Best-20-movies/static/js/2.1aed6000.chunk.js",
     "static/js/2.1aed6000.chunk.js.map": "/ReactJS__The-Best-20-movies/static/js/2.1aed6000.chunk.js.map",
     "index.html": "/ReactJS__The-Best-20-movies/index.html",
-    "precache-manifest.e1734f551c57d6d2005aaae99257eb89.js": "/ReactJS__The-Best-20-movies/precache-manifest.e1734f551c57d6d2005aaae99257eb89.js",
+    "precache-manifest.203f7bd9d809d48d9c43affd1856f48d.js": "/ReactJS__The-Best-20-movies/precache-manifest.203f7bd9d809d48d9c43affd1856f48d.js",
     "service-worker.js": "/ReactJS__The-Best-20-movies/service-worker.js",
     "static/css/main.8a16b3a5.chunk.css.map": "/ReactJS__The-Best-20-movies/static/css/main.8a16b3a5.chunk.css.map",
     "static/js/2.1aed6000.chunk.js.LICENSE.txt": "/ReactJS__The-Best-20-movies/static/js/2.1aed6000.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eec850a3.js",
     "static/js/2.1aed6000.chunk.js",
     "static/css/main.8a16b3a5.chunk.css",
-    "static/js/main.d9f59ddb.chunk.js"
+    "static/js/main.f244f0dd.chunk.js"
   ]
 }

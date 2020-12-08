@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "17a5f8bf0a37747efc46dab0cab343c4",
+    "revision": "71308ebbdb3d71b19ee4f6e6f4484647",
     "url": "/ReactJS__The-Best-20-movies/index.html"
   },
   {
-    "revision": "8f9dd4367d1aa8c3db33",
+    "revision": "7e1d44b72cfb9606d0f4",
     "url": "/ReactJS__The-Best-20-movies/static/css/main.8a16b3a5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ReactJS__The-Best-20-movies/static/js/2.1aed6000.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8f9dd4367d1aa8c3db33",
-    "url": "/ReactJS__The-Best-20-movies/static/js/main.d9f59ddb.chunk.js"
+    "revision": "7e1d44b72cfb9606d0f4",
+    "url": "/ReactJS__The-Best-20-movies/static/js/main.f244f0dd.chunk.js"
   },
   {
     "revision": "718f1fd3f5bef348acea",
