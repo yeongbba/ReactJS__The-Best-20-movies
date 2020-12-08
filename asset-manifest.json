@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/movie-app/static/css/main.8a16b3a5.chunk.css",
-    "main.js": "/movie-app/static/js/main.d9f59ddb.chunk.js",
-    "main.js.map": "/movie-app/static/js/main.d9f59ddb.chunk.js.map",
-    "runtime-main.js": "/movie-app/static/js/runtime-main.1fbae34b.js",
-    "runtime-main.js.map": "/movie-app/static/js/runtime-main.1fbae34b.js.map",
-    "static/js/2.1aed6000.chunk.js": "/movie-app/static/js/2.1aed6000.chunk.js",
-    "static/js/2.1aed6000.chunk.js.map": "/movie-app/static/js/2.1aed6000.chunk.js.map",
-    "index.html": "/movie-app/index.html",
-    "precache-manifest.97a1cd387e83fcd6019b09d8537a05e5.js": "/movie-app/precache-manifest.97a1cd387e83fcd6019b09d8537a05e5.js",
-    "service-worker.js": "/movie-app/service-worker.js",
-    "static/css/main.8a16b3a5.chunk.css.map": "/movie-app/static/css/main.8a16b3a5.chunk.css.map",
-    "static/js/2.1aed6000.chunk.js.LICENSE.txt": "/movie-app/static/js/2.1aed6000.chunk.js.LICENSE.txt"
+    "main.css": "/ReactJS__The-Best-20-movies/static/css/main.8a16b3a5.chunk.css",
+    "main.js": "/ReactJS__The-Best-20-movies/static/js/main.d9f59ddb.chunk.js",
+    "main.js.map": "/ReactJS__The-Best-20-movies/static/js/main.d9f59ddb.chunk.js.map",
+    "runtime-main.js": "/ReactJS__The-Best-20-movies/static/js/runtime-main.eec850a3.js",
+    "runtime-main.js.map": "/ReactJS__The-Best-20-movies/static/js/runtime-main.eec850a3.js.map",
+    "static/js/2.1aed6000.chunk.js": "/ReactJS__The-Best-20-movies/static/js/2.1aed6000.chunk.js",
+    "static/js/2.1aed6000.chunk.js.map": "/ReactJS__The-Best-20-movies/static/js/2.1aed6000.chunk.js.map",
+    "index.html": "/ReactJS__The-Best-20-movies/index.html",
+    "precache-manifest.e1734f551c57d6d2005aaae99257eb89.js": "/ReactJS__The-Best-20-movies/precache-manifest.e1734f551c57d6d2005aaae99257eb89.js",
+    "service-worker.js": "/ReactJS__The-Best-20-movies/service-worker.js",
+    "static/css/main.8a16b3a5.chunk.css.map": "/ReactJS__The-Best-20-movies/static/css/main.8a16b3a5.chunk.css.map",
+    "static/js/2.1aed6000.chunk.js.LICENSE.txt": "/ReactJS__The-Best-20-movies/static/js/2.1aed6000.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fbae34b.js",
+    "static/js/runtime-main.eec850a3.js",
     "static/js/2.1aed6000.chunk.js",
     "static/css/main.8a16b3a5.chunk.css",
     "static/js/main.d9f59ddb.chunk.js"
